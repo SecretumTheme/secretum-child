@@ -1,0 +1,7 @@
+* linguist-vendored
+*.php linguist-vendored=false
+.gitattributes export-ignore
+.gitignore export-ignore
+updates.json export-ignore
+README.md export-ignore
+LICENSE export-ignore
