@@ -1,8 +1,4 @@
-Secretum - WordPress Theme
-
-Copyright 2018-2019 Secretum
-
-Secretum is released under the GPL
+                    Secretum - WordPress Theme
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
